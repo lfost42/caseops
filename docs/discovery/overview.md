@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-The **Discovery Phase** establishes the foundation for the ClarityOps framework, a structured approach to troubleshooting and support case management designed to improve consistency, clarity, and engineer maturity across technical teams.
+The **Discovery Phase** establishes the foundation for the CaseOps framework, a structured approach to troubleshooting and support case management designed to improve consistency, clarity, and engineer maturity across technical teams.
 
 This phase focuses on defining the core principles, workflow stages, and success criteria that will shape how engineers approach problem-solving, validation, and communication.  
 
@@ -12,7 +12,7 @@ Discovery centers on **conceptual design**, the principles, structure, and artif
 
 ## 🪄 The What
 
-**ClarityOps** is a support enablement framework that:
+**CaseOps** is a support enablement framework that:
 - Turns troubleshooting into a **repeatable, teachable process**.  
 - Encourages engineers to **confirm understanding, validate hypotheses,** and **communicate clearly**.  
 - Helps teams move from reactive incident handling to **structured, proactive reliability practices**.  
@@ -84,4 +84,4 @@ Move into **Templates & Checklists**, where the conceptual framework becomes ope
 ---
 
 > *Clarity is a skill, not a side effect of experience.*  
-> — ClarityOps Discovery Summary
+> — CaseOps Discovery Summary
