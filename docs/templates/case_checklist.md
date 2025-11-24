@@ -1,6 +1,6 @@
 # ✅ Case Checklist
 
-A practical checklist for ensuring consistent, clear, and validated case handling — aligned to the **ClarityOps Support Case Framework**.  
+A practical checklist for ensuring consistent, clear, and validated case handling — aligned to the **CaseOps Support Case Framework**.  
 This guide defines the **deliverables for each case** and links to the long-term [Maturity Map](./maturity_map.md) for professional growth tracking.
 
 ---
