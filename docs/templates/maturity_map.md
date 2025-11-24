@@ -1,7 +1,7 @@
 # 🌟 Maturity Map
 
 A set of outcomes that define **proficiency and direction for growth**.  
-These milestones align with the ClarityOps maturity model and support self-assessment, coaching, and career development.
+These milestones align with the CaseOps maturity model and support self-assessment, coaching, and career development.
 
 ---
 
@@ -97,5 +97,5 @@ These milestones align with the ClarityOps maturity model and support self-asses
 
 ---
 
-> **ClarityOps Principle:**  
+> **CaseOps Principle:**  
 > *Maturity is the consistent practice of clarity, validation, and ownership.*
