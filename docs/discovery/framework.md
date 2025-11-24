@@ -108,5 +108,5 @@ It promotes understanding before action, validation before communication, and re
 
 ---
 
-> **ClarityOps Principle:**  
+> **CaseOps Principle:**  
 > *Great support is about building understanding, confidence, and trust in every interaction.*
