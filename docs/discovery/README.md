@@ -1,6 +1,6 @@
 # 🧭 Discovery Phase
 
-This folder contains drafts and notes from the **Discovery** phase of the ClarityOps framework: where core principles, phases, and maturity concepts were defined.
+This folder contains drafts and notes from the **Discovery** phase of the CaseOps framework: where core principles, phases, and maturity concepts were defined.
 
 ### 🔗 Files
 - [overview.md](./overview.md) – Objective and scope for the discovery phase.  
