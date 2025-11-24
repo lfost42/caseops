@@ -1,6 +1,6 @@
 # 📚 Resources
 
-Books, articles, and frameworks that inspired the design and principles behind **ClarityOps** — focused on clarity, ownership, validation, and scalable team growth.
+Books, articles, and frameworks that inspired the design and principles behind **CaseOps** — focused on clarity, ownership, validation, and scalable team growth.
 
 ---
 
