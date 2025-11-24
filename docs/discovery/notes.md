@@ -77,4 +77,4 @@ Transition to **Milestone 2 – Templates & Checklists**, focusing on:
 ---
 
 > *“Structure doesn’t slow us down — it keeps us aligned when things move fast.”*  
-> — ClarityOps Discovery Reflection
+> — CaseOps Discovery Reflection
