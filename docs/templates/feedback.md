@@ -1,13 +1,13 @@
 # 🗒️ Feedback Framework (Planned Collection Approach)
 
-This document outlines the **types of feedback** intended for collection as the ClarityOps Support Case Framework is piloted and refined.  
+This document outlines the **types of feedback** intended for collection as the CaseOps Support Case Framework is piloted and refined.  
 No real user, team, or customer data is included in this repository for privacy reasons.  
 Instead, this serves as a transparent reference for **how** feedback would be structured, analyzed, and applied in a live environment.
 
 ---
 
 ## 🎯 Purpose
-The goal of this feedback framework is to ensure the ClarityOps project evolves through **real-world insights** while maintaining privacy and trust.  
+The goal of this feedback framework is to ensure the CaseOps project evolves through **real-world insights** while maintaining privacy and trust.  
 Feedback focuses on how effectively the framework helps engineers:
 - Understand and structure complex cases.  
 - Communicate with clarity and confidence.  
@@ -88,4 +88,4 @@ This ensures the framework remains transparent and collaborative without comprom
 
 ---
 
-> *ClarityOps grows through observation, iteration, and reflection.*
+> *CaseOps grows through observation, iteration, and reflection.*
